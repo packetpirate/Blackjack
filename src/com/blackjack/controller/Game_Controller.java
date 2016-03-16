@@ -1,3 +1,8 @@
+/*****************************************************************
+ * This class acts as the Controller in my MVC design. It exhibits
+ * two-way communication with the View and Model, acting like a
+ * "messenger boy" between the two.
+ *****************************************************************/
 package com.blackjack.controller;
 
 import java.awt.event.MouseAdapter;

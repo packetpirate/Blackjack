@@ -1,3 +1,8 @@
+/*****************************************************************
+ * This class acts as the Model in my MVC design. It handles
+ * the game logic and data manipulation. It communicates with
+ * the Controller so that the data can be used to update the View.
+ *****************************************************************/
 package com.blackjack.model;
 
 public class Game_Framework {
