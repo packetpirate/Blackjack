@@ -9,7 +9,7 @@ implemented it in did not matter, so I chose Java, my primary language.
 
 ### Challenges
 Most of the challenges I faced in the project were in figuring out the difference between the Controller and the Model.
-There was some early confusion as to which was which, but once I figured that out, and doing some independent reading,
+There was some early confusion as to which was which, but once I figured that out, and after doing some independent reading,
 many websites had many different interpretation of MVC. Fortunately I was able to find one that most closely matched what
 we went over in class, and was able to implement it. The second largest challenge was figuring out how to communicate between
 the different components of the pattern in Java syntax. However, once I overcame that obstacle, I realized just how
